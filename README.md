@@ -1,4 +1,7 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub by Sir Rizal
+
+## Name: Muhammad Amirul Asyraf bin Mohd Kamal
+## Matric No: 2115565
 
 ## 🤓 Course overview and learning outcomes 
 
